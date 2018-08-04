@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="textsize_tabs">10sp</dimen>
+
+    <dimen name="image_width">192dp</dimen>
+    <dimen name="money_width">24dp</dimen>
+
+    <dimen name="app_margin">16dp</dimen>
+
+</resources>

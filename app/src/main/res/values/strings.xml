@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">TourGuideP5</string>
+
+    <string name="shelters">Animal shelters</string>
+    <string name="cemeteries">Cemeteries</string>
+    <string name="churches">Churches</string>
+    <string name="restaurants">Vegan restaurants</string>
+    <string name="price_range">Price range:</string>
+
+    <!--shelters-->
+    <string name="dzd_name">Animal Friend</string>
+    <string name="dzd_address">Fridriha Candera street 4, Riga, LV-1046</string>
+    <string name="dzd_phone">67500491</string>
+    <string name="dzd_url">http://www.dzd.lv/</string>
+    <string name="dzd_email">dzd@latnet.lv</string>
+    <string name="ulubele_name">Ulubele</string>
+    <string name="ulubele_address">Stopiņu novads, Līči,  “Ozolaines” teritorijā, LV-2118, p/n Cekule</string>
+    <string name="ulubele_phone">20203333</string>
+    <string name="ulubele_url">http://ulubele.org/</string>
+    <string name="ulubele_email">info@patversme.lv</string>
+    <string name="jugla_name">Labās Mājas</string>
+    <string name="jugla_address">Mežapurva street 2, Riga, LV-1064</string>
+    <string name="jugla_phone">26617636</string>
+    <string name="jugla_url">http://patversme.lv/</string>
+    <string name="jugla_email">ulubele@ulubele.org</string>
+
+    <!--cemeteries-->
+    <string name="pokrov_great_name">Pokrov Cemetery and Great Cemetery</string>
+    <string name="pokrov_great_address">Mēness street 3, Riga</string>
+    <string name="pokrov_great_descr">Two adjacent cemeteries. A very beautiful area with lots of old headstones and creepy abandoned mausoleums and crypts. Sadly, a part of the cemetery is surrounded by a fence (probably after some cases of vandalism). But another part is opened to visitors and is one of the best places for a night stroll; unfortunately, it is crowded at daytime. Pokrov Cemetery was among Russian Empire\'s largest five cemeteries.</string>
+    <string name="pokrov_great_burials">Vija Artmane,  \nJanis Pommers,  \nVera Mukhina,  \nKrišjānis Valdemārs,  \nAndrejs Pumpurs</string>
+    <string name="forest_brethren_name">Forest Cemetery, Cemetery of the Brethren, Rainis Cemetery</string>
+    <string name="forest_brethren_address">Aizsaules street 2, \nGaujas street 12, \nGaujas street 19A, \nAizsaules street 1A, Riga</string>
+    <string name="forest_brethren_descr">Huge adjacent cemeteries. The second biggest green spot in Riga on google maps. One can walk for hours in there. Sometimes there are also guided tours available. Plenty of greenery and lots of monuments. Many famous people are buried there.</string>
+    <string name="forest_brethren_burials">Rūsiņš Mārtiņš Freivalds,  \nJanis Rozentāls,  \nKonstantīns Pēkšēns, \nJanis \"Rainis\" Plieksans</string>
+    <string name="lacupe_name">Lacupe Cemetery</string>
+    <string name="lacupe_address">Buļļu street 82, Riga</string>
+    <string name="lacupe_descr">A really quiet place with lots of tall pine trees.</string>
+    <string name="lacupe_burials">Marija Šišova, \nPetrs Šišovs, \nFedora Prohorčenko</string>
+    <string name="bolderaja_name">Bolderaja New Cemetery</string>
+    <string name="bolderaja_address">Kleistu street 80, Riga</string>
+    <string name="bolderaja_descr">Don\'\t forget to bring cat food if you go there. There is a cat family living near the entrance to the cemetery.</string>
+    <string name="bolderaja_burials">Anatolijs Obsokovs</string>
+
+    <!--restaurants-->
+    <string name="terapija_name">Terapija</string>
+    <string name="terapija_address">Bruņinieku street 69, Riga</string>
+    <string name="terapija_phone">20045234</string>
+    <string name="terapija_hours">Mon-Fri 11:00am-10:00pm,  \nSat 12:00pm-10:00pm,  \nSun 12:00pm-6:00pm</string>
+    <string name="bhajan_name">Bhajan Cafe</string>
+    <string name="bhajan_address">Antonijas street 10, Riga</string>
+    <string name="bhajan_phone">67687945</string>
+    <string name="bhajan_hours">Tue-Fri 11:00am-8:00pm,  Sat 12:00pm-6:00pm</string>
+    <string name="pumpkin_name">Fat Pumpkin</string>
+    <string name="pumpkin_address">Griecinieku street 11a, Riga</string>
+    <string name="pumpkin_phone">64907070</string>
+    <string name="pumpkin_hours">Mon-Sat 12:00pm-10:00pm,  Sun 12:00pm-9:00pm</string>
+    <string name="garuda_name">Garuda</string>
+    <string name="garuda_address">Mukusalas  street 71, Riga</string>
+    <string name="garuda_phone">29152322</string>
+    <string name="garuda_hours">Mon-Sat 10:00am-9:00pm,  Sun 10:00am-8:00pm</string>
+    <string name="rama_name">Rama</string>
+    <string name="rama_address">Krisjana Barona street 56, Riga</string>
+    <string name="rama_phone">67272490</string>
+    <string name="rama_hours">Mon-Fri 10:00am-8:00pm,  Sat-Sun 11:00am-7:30pm</string>
+</resources>
